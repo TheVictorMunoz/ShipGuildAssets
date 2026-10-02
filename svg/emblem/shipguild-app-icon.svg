@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="ShipGuild app icon">
+<title>ShipGuild app icon</title>
+<defs><radialGradient id="iglow" cx="563.2" cy="430.08" r="614.4" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#132108"/><stop offset=".55" stop-color="#070B05"/><stop offset="1" stop-color="#050705"/></radialGradient><linearGradient id="istreak" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C8EE10" stop-opacity="0"/><stop offset=".7" stop-color="#C8EE10" stop-opacity=".9"/><stop offset="1" stop-color="#EEFC2A" stop-opacity="0"/></linearGradient><filter id="isoft" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="6"/></filter><filter id="ihaze" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="22"/></filter><pattern id="idots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#C8EE10" fill-opacity=".18"/></pattern></defs><rect width="1024" height="1024" rx="224" fill="url(#iglow)"/><g transform="translate(122 122) scale(0.73585) translate(-97 -92)"><defs><linearGradient id="eg" x1="0" y1="118" x2="0" y2="1127" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#EEFC2A"/><stop offset=".55" stop-color="#C8EE10"/><stop offset="1" stop-color="#93D106"/></linearGradient><linearGradient id="ek" x1="0" y1="912" x2="0" y2="1105" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#C8EE10"/><stop offset="1" stop-color="#4E9A00"/></linearGradient><linearGradient id="ek2" x1="0" y1="912" x2="0" y2="1105" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#B2E20C"/><stop offset="1" stop-color="#3F8500"/></linearGradient></defs>
+<ellipse cx="627" cy="622.5" rx="465" ry="493" fill="none" stroke="url(#eg)" stroke-width="23"/>
+<g fill="url(#eg)" stroke="url(#eg)" stroke-width="3" stroke-linejoin="round">
+<path d="M289,595 L627,436 L965,595 L965,621 L627,472 L289,621Z"/>
+<path d="M532,433 L532,412 A95,87 0 0 1 722,412 L722,433 L627,394Z"/>
+<path d="M382,501 L382,432 A64.5,64 0 0 1 511,432 L511,442Z"/>
+<path d="M872,501 L872,432 A64.5,64 0 0 0 743,432 L743,442Z"/>
+<path d="M604,523 L296,661 L296,800 L309,814 L324,820 L340,820 L525,784 L534,785 L540,791 L541,830 L532,842 L334,911 L378,952 L387,956 L402,955 L587,886 L600,875 L604,865 L603,748 L546,723 L527,721 L361,753 L358,749 L358,705 L536,624 L541,626 L541,679 L604,705Z"/>
+<path d="M650,523 L651,872 L669,887 L853,956 L875,952 L910,925 L942,885 L951,861 L956,806 L793,738 L793,804 L894,845 L895,870 L891,889 L882,896 L870,896 L718,840 L712,831 L713,625 L737,632 L895,704 L896,736 L957,762 L957,661 L810,592Z"/>
+<circle cx="627" cy="255" r="54.5"/>
+<circle cx="449" cy="315" r="40.5"/>
+<circle cx="805" cy="315" r="40.5"/>
+</g>
+<path d="M627,912 L457,978 Q570,1016 627,1105Z" fill="url(#ek)"/>
+<path d="M627,912 L797,978 Q684,1016 627,1105Z" fill="url(#ek2)"/></g>
+</svg>
